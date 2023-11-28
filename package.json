@@ -1,0 +1,16 @@
+{
+  "name": "cypress-mongodb",
+  "version": "1.0.0",
+  "author": "Juan Manuel Spoleti <juanmspoleti@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0",
+    "cypress-mongodb": "^6.2.0"
+  },
+  "dependencies": {
+    "typescript": "^5.3.2"
+  }
+}
